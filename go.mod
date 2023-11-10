@@ -3,7 +3,7 @@ module github.com/MerlinKodo/sing-quic
 go 1.20
 
 require (
-	github.com/MerlinKodo/quic-go v0.39.1
+	github.com/MerlinKodo/quic-go v0.39.2
 	github.com/sagernet/sing v0.2.13
 	golang.org/x/crypto v0.14.0
 )
