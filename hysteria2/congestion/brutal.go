@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/metacubex/quic-go/congestion"
+	"github.com/MerlinKodo/quic-go/congestion"
 	"github.com/sagernet/sing/common/logger"
 )
 

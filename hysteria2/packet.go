@@ -12,9 +12,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/metacubex/quic-go"
-	"github.com/metacubex/quic-go/quicvarint"
-	"github.com/metacubex/sing-quic/hysteria2/internal/protocol"
+	"github.com/MerlinKodo/quic-go"
+	"github.com/MerlinKodo/quic-go/quicvarint"
+	"github.com/MerlinKodo/sing-quic/hysteria2/internal/protocol"
 	"github.com/sagernet/sing/common"
 	"github.com/sagernet/sing/common/atomic"
 	"github.com/sagernet/sing/common/buf"
