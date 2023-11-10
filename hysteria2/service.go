@@ -10,6 +10,8 @@ import (
 	"runtime"
 	"sync"
 
+	qtls "github.com/MerlinKodo/sing-quic"
+
 	"github.com/MerlinKodo/quic-go"
 	"github.com/MerlinKodo/quic-go/http3"
 	hyCC "github.com/MerlinKodo/sing-quic/hysteria2/congestion"

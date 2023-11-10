@@ -13,6 +13,7 @@ import (
 	"time"
 
 	"github.com/MerlinKodo/quic-go"
+	qtls "github.com/MerlinKodo/sing-quic"
 	hyCC "github.com/MerlinKodo/sing-quic/hysteria2/congestion"
 	"github.com/MerlinKodo/sing-quic/hysteria2/internal/protocol"
 	"github.com/sagernet/sing/common/baderror"
